@@ -1,0 +1,17 @@
+Sum:
+19 17 15
+10 10 10
+17 19 21
+
+Subtract:
+1 1 1
+-2 0 2
+-3 -3 -3
+
+Multiply:
+224 213 202
+126 123 120
+201 195 189
+
+Error in division: Matrix inversion error: Matrix cannot be inverted because its determinant is zero
+

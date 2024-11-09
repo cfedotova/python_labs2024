@@ -1,0 +1,3 @@
+Circle,5,Red
+Rectangle,4,6,Yellow
+Square,3,Blue

@@ -1,0 +1,4 @@
+Error in addition: Vectors must be the same length for addition
+Error in subtraction: Vectors must be the same length for subtraction
+Multiply by scalar (2): [2.0, 4.0]
+Division by scalar (2): [2.0, 2.5, 3.0]

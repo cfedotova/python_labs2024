@@ -1,0 +1,12 @@
+addition
+6.0 8.0
+10.0 12.0
+subtraction
+-4.0 -4.0
+-4.0 -4.0
+multiplication
+19.0 22.0
+43.0 50.0
+division= 
+3.0 -2.0
+2.0 -1.0
